@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-outfit: Outfit;
+
+  /* font sizes */
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+}
