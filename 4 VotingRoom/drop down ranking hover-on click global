@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-outfit: Outfit;
+
+  /* font sizes */
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-gray: rgba(0, 0, 0, 0.69);
+  --color-white: #fff;
+  --color-black: #000;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+}
